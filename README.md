@@ -1,6 +1,49 @@
-### Good Day
+# Good Day
 
-This is the profile readme for Dwayne Phillips...a work in progress
+Dwayne Phillips
+
+Problem solving leadership, computer and systems engineering, project management, writing
+
+
+
+
+## Latest
+
+27 November 2020 - Updated my old image processing software and put it on GitHub. See in the Books section below.
+
+1 October 2019 - Working for Zel Technologies as a researcher in advanced analytics.
+
+3 November 2018 - I am now writing longer posts and putting them on medium.com. See https://medium.com/@phillips.dwayne 
+
+
+
+## Website
+
+dwaynephillips.net
+
+## Books
+
+#### "Working Up to Project Management" 
+https://www.amazon.com/Working-Up-Project-Management-Government/dp/0932633668/ref=sr_1_2?dchild=1&keywords=working+up+dwayne+phillips&qid=1607434207&sr=8-2
+
+#### "It Sounded Good When We Started"
+https://www.amazon.com/Sounded-Good-When-Started-Practitioners/dp/0471485861/ref=sr_1_1?dchild=1&keywords=it+sounded+good+when+we+started+dwayne+phillips&qid=1607434306&sr=8-1
+
+#### "The Software Project Manager's Handbook, 2ed"
+https://www.amazon.com/Software-Project-Managers-Handbook-Principles/dp/0471674206/ref=sr_1_2?dchild=1&keywords=The+software+project+manager%27s+handbook+dwayne+phillips&qid=1607434354&sr=8-2
+
+#### "Just Enough Systems Engineering"
+Free to download here: http://dwaynephillips.net/systemsengineering/index.html
+
+#### "Image Processing in C"
+This is available on GitHub with source code and a PDF of the book. https://github.com/Dwayne-Phillips/CIPS
+
+## List of all publications
+http://dwaynephillips.net/publicat.htm
+
+## Short Stories
+
+I wrote about 70 short stories that are available on SmashWords: https://www.smashwords.com/profile/view/DwaynePhillips
 
 ## Instructions
 
