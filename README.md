@@ -2,6 +2,10 @@
 
 This is the profile readme for Dwayne Phillips...a work in progress
 
+## Instructions
+
+Instructions for creating and editing a profile readme are at https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme#adding-a-profile-readme
+
 <!--
 **Dwayne-Phillips/Dwayne-Phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
