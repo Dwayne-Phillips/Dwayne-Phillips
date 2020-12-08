@@ -12,7 +12,7 @@ I have a book I wrote on image processing and all the source code in one reposit
 
 ## My Website
 
-dwaynephillips.net
+http://dwaynephillips.net/
 
 ## Books
 
