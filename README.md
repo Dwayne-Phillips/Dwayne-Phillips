@@ -1,4 +1,6 @@
-### Hi there 👋
+### Good Day
+
+This is the profile readme for Dwayne Phillips...a work in progress
 
 <!--
 **Dwayne-Phillips/Dwayne-Phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
