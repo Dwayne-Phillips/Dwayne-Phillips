@@ -4,20 +4,13 @@ Dwayne Phillips
 
 Problem solving leadership, computer and systems engineering, project management, writing
 
+I have worked in and around the US Intelligence Community since 1980. At one time I wrote software. Then someone made me manage software projects and such. I wrote about my experiences (see books and publications list below).
+
+I have a book I wrote on image processing and all the source code in one repository. I use the other repositories for knowledge management and various experiments.
 
 
 
-## Latest
-
-27 November 2020 - Updated my old image processing software and put it on GitHub. See in the Books section below.
-
-1 October 2019 - Working for Zel Technologies as a researcher in advanced analytics.
-
-3 November 2018 - I am now writing longer posts and putting them on medium.com. See https://medium.com/@phillips.dwayne 
-
-
-
-## Website
+## My Website
 
 dwaynephillips.net
 
