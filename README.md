@@ -42,6 +42,10 @@ I wrote about 70 short stories that are available on SmashWords: https://www.sma
 
 Instructions for creating and editing a profile readme are at https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme#adding-a-profile-readme
 
+#### GitHub Codespaces
+
+The documentation for this is at https://docs.github.com/en/codespaces. I have been granted access to this and am trying to learn a few things.
+
 <!--
 **Dwayne-Phillips/Dwayne-Phillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
